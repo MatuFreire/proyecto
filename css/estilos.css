@@ -12,17 +12,28 @@ header {
 .q-somos{
 	height: 650px;
 	width: auto;
+	color:#CF81B6;
 }
 
 .titulos {
 	padding-top: 50px;
 	font-family: 'Fredoka One', cursive;
-	color: #00FFFF;
+	color: #CF81B6;
 }
 
 .parrafos {
 	font-family: 'Noto Sans HK', sans-serif;
+	color: #CF81B6;
 }
+
+.trajes{
+	color:#CF81B6;
+}
+
+.gafas{
+	color: #CF81B6;
+}
+
 
 
 
